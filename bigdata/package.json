@@ -1,0 +1,16 @@
+{
+    "name": "fringecore-backend-challenge-big-data",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.mjs",
+    "scripts": {
+        "start": "node ./src/server.mjs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.18.1",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}

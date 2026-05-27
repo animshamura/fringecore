@@ -1,0 +1,125 @@
+{
+    "1": {
+        "age": 100,
+        "name": "Alison Burger",
+        "readDelay": 1000,
+        "writeDelay": 10000
+    },
+    "2": {
+        "age": 31,
+        "name": "Brian Lee",
+        "readDelay": 1000,
+        "writeDelay": 10000
+    },
+    "3": {
+        "age": 29,
+        "name": "Carla Gomez",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "4": {
+        "age": 42,
+        "name": "David Kim",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "5": {
+        "age": 37,
+        "name": "Ella Thompson",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "6": {
+        "age": 23,
+        "name": "Franklin Carter",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "7": {
+        "age": 34,
+        "name": "Grace Liu",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "8": {
+        "age": 28,
+        "name": "Hassan Rahman",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "9": {
+        "age": 39,
+        "name": "Isabella Rossi",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "10": {
+        "age": 46,
+        "name": "Jacob Smith",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "11": {
+        "age": 27,
+        "name": "Katherine Nguyen",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "12": {
+        "age": 32,
+        "name": "Liam Patel",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "13": {
+        "age": 30,
+        "name": "Maria Lopez",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "14": {
+        "age": 41,
+        "name": "Nathan Parker",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "15": {
+        "age": 36,
+        "name": "Olivia Brown",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "16": {
+        "age": 38,
+        "name": "Patrick Green",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "17": {
+        "age": 33,
+        "name": "Quinn Taylor",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "18": {
+        "age": 1850,
+        "name": "Riley Martinez",
+        "readDelay": 500,
+        "writeDelay": 1000
+    },
+    "19": {
+        "age": 29,
+        "name": "Sophie Williams",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "20": {
+        "age": 45,
+        "name": "Thomas Anderson",
+        "readDelay": 100,
+        "writeDelay": 1000
+    },
+    "[object Object]": {
+        "age": 69
+    }
+}
